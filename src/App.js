@@ -1,11 +1,8 @@
 import "./App.css";
+import { Body } from "./components";
 
 function App() {
-  return (
-    <div className="App">
-      <h1 className="text-3xl">Netflix GPT</h1>
-    </div>
-  );
+  return <Body />;
 }
 
 export default App;
