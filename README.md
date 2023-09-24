@@ -7,7 +7,8 @@
 - Login Form
 - Form Validations
 - useRef Hook
--
+- firebase setup
+- Deploying app to production using firebase
 
 # Features
 
